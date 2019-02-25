@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Olá Mundo USJT ADS3AN-MCA</string>
+    <string name="dica_mensagem">Digite uma mensagem</string>
+    <string name="ok">Ok</string>
+</resources>
